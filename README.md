@@ -4,7 +4,7 @@
 
 Coastal Shield is a machine learning decision support system that predicts harmful algal bloom (HAB) risk along the California coast 14 days in advance, giving coastal health departments calibrated, audit-ready predictions with statistically guaranteed uncertainty bounds.
 
-Built at **DataHacks 2026** · UC San Diego · Team: Ariha Shah & Aarshia Gupta
+Built at **DataHacks 2026** · UC San Diego · Team: Aarshia Gupta & Ariha Shah
 
 ---
 
