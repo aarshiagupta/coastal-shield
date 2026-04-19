@@ -208,3 +208,4 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+data/raw/CalCOFI_Database_194903-202105_csv_16October2023/
