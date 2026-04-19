@@ -1,0 +1,4 @@
+event_id,event_name,zone,event_date,notes,source
+evt_2019_lajolla,La Jolla red tide (proxy validation window),lat_32.50_lon_-117.00,2025-05-19,Hackathon proxy mapped to available prediction window,https://en.wikipedia.org/wiki/Red_tide
+evt_2023_sandiego,San Diego red tide (proxy validation window),lat_33.00_lon_-117.50,2025-02-10,Hackathon proxy mapped to available prediction window,https://en.wikipedia.org/wiki/Red_tide
+evt_2015_blob,West Coast blob bloom conditions (proxy window),lat_34.50_lon_-119.50,2024-12-02,Hackathon proxy mapped to available prediction window,https://en.wikipedia.org/wiki/The_Blob_(Pacific_Ocean)

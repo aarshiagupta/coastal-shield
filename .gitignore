@@ -1,3 +1,6 @@
+# Weights & Biases local cache (see src/wandb_log.py)
+.wandb/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]

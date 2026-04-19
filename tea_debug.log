@@ -1,0 +1,35 @@
+2026/04/18 15:20:50 main.go:149: ERROR main: failed to get logger path error="error creating log directory: mkdir /Users/aarshiagupta/Library/Caches/wandb: operation not permitted"
+2026/04/18 15:20:50 unixlistener_unix.go:24: WARN server/listeners: couldn't open Unix socket in os.TempDir() error="server/listeners: failed to open Unix socket on \"/var/folders/c2/7_016_5s2r96f98qj66kjg840000gn/T/wandb-93995-94021-2246423615/socket\": listen unix /var/folders/c2/7_016_5s2r96f98qj66kjg840000gn/T/wandb-93995-94021-2246423615/socket: bind: operation not permitted"
+2026/04/18 15:20:50 listeners.go:55: WARN server/listeners: failed to make some listeners error="server/listeners: failed to open Unix socket on \"/tmp/wandb-93995-94021-395899436/socket\": listen unix /tmp/wandb-93995-94021-395899436/socket: bind: operation not permitted"
+2026/04/18 15:20:50 server.go:190: INFO server: accepting connections addr=127.0.0.1:54068
+2026/04/18 15:20:50 server.go:125: INFO server: will exit if parent process dies ppid=93995
+2026/04/18 15:20:50 connection.go:143: INFO connection: ManageConnectionData: new connection created id=1(127.0.0.1:54070)
+2026/04/18 15:20:50 connection.go:384: INFO handleInformInit: received streamId=3hezfenj id=1(127.0.0.1:54070)
+2026/04/18 15:20:55 connection.go:395: INFO handleInformInit: stream started streamId=3hezfenj id=1(127.0.0.1:54070)
+2026/04/18 15:20:55 connection.go:369: INFO connection: cancelling request id=1(127.0.0.1:54070) requestId=87mzh4696f66
+2026/04/18 15:20:55 connection.go:586: INFO handleInformTeardown: server teardown initiated id=1(127.0.0.1:54070)
+2026/04/18 15:20:55 server.go:168: INFO server is shutting down
+2026/04/18 15:20:55 connection.go:710: INFO connection: closing id=1(127.0.0.1:54070)
+2026/04/18 15:20:55 server.go:196: INFO server: listener closed addr=127.0.0.1:54068
+2026/04/18 15:20:55 connection.go:715: INFO connection: closed successfully id=1(127.0.0.1:54070)
+2026/04/18 15:20:55 connection.go:592: INFO handleInformTeardown: server shutdown complete id=1(127.0.0.1:54070)
+2026/04/18 15:20:55 connection.go:171: INFO connection: ManageConnectionData: connection closed id=1(127.0.0.1:54070)
+2026/04/18 15:20:55 server.go:182: INFO server is closed
+2026/04/18 15:21:16 main.go:149: ERROR main: failed to get logger path error="error creating log directory: mkdir /Users/aarshiagupta/Library/Caches/wandb: operation not permitted"
+2026/04/18 15:21:16 unixlistener_unix.go:24: WARN server/listeners: couldn't open Unix socket in os.TempDir() error="server/listeners: failed to open Unix socket on \"/var/folders/c2/7_016_5s2r96f98qj66kjg840000gn/T/wandb-94045-94056-278437452/socket\": listen unix /var/folders/c2/7_016_5s2r96f98qj66kjg840000gn/T/wandb-94045-94056-278437452/socket: bind: operation not permitted"
+2026/04/18 15:21:16 listeners.go:55: WARN server/listeners: failed to make some listeners error="server/listeners: failed to open Unix socket on \"/tmp/wandb-94045-94056-2277812940/socket\": listen unix /tmp/wandb-94045-94056-2277812940/socket: bind: operation not permitted"
+2026/04/18 15:21:16 server.go:190: INFO server: accepting connections addr=127.0.0.1:54097
+2026/04/18 15:21:16 server.go:125: INFO server: will exit if parent process dies ppid=94045
+2026/04/18 15:21:17 connection.go:143: INFO connection: ManageConnectionData: new connection created id=1(127.0.0.1:54099)
+2026/04/18 15:21:17 connection.go:384: INFO handleInformInit: received streamId=dx77ccfy id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 connection.go:395: INFO handleInformInit: stream started streamId=dx77ccfy id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 connection.go:560: INFO handleInformFinish: finish message received streamId=dx77ccfy id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 connection.go:710: INFO connection: closing id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 connection.go:576: INFO handleInformFinish: stream closed streamId=dx77ccfy id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 connection.go:586: INFO handleInformTeardown: server teardown initiated id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 connection.go:715: INFO connection: closed successfully id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 connection.go:592: INFO handleInformTeardown: server shutdown complete id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 connection.go:171: INFO connection: ManageConnectionData: connection closed id=1(127.0.0.1:54099)
+2026/04/18 15:21:22 server.go:168: INFO server is shutting down
+2026/04/18 15:21:22 server.go:196: INFO server: listener closed addr=127.0.0.1:54097
+2026/04/18 15:21:22 server.go:182: INFO server is closed

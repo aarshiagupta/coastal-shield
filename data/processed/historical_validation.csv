@@ -1,0 +1,4 @@
+event_id,event_name,zone,event_date,fired_14d_prior,prediction_date,days_before_event,prob,lower,upper,recommended_action,source
+evt_2015_blob,West Coast blob bloom conditions (proxy window),lat_34.50_lon_-119.50,2024-12-02,True,2024-11-25,7,0.999945211931762,0.0151861761518709,1.0,Closure Recommended,https://en.wikipedia.org/wiki/The_Blob_(Pacific_Ocean)
+evt_2023_sandiego,San Diego red tide (proxy validation window),lat_33.00_lon_-117.50,2025-02-10,True,2025-01-27,14,0.9847590357798912,0.0,1.0,Closure Recommended,https://en.wikipedia.org/wiki/Red_tide
+evt_2019_lajolla,La Jolla red tide (proxy validation window),lat_32.50_lon_-117.00,2025-05-19,True,2025-05-05,14,0.9847590357798912,0.0,1.0,Closure Recommended,https://en.wikipedia.org/wiki/Red_tide
