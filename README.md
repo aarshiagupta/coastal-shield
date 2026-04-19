@@ -150,9 +150,4 @@ Python · XGBoost · SHAP · Conformal Prediction · Streamlit · Plotly · Gemi
 
 ---
 
-## Built At
-
-DS3 UC San Diego · 
----
-
 *MIT License*
