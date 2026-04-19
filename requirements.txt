@@ -1,3 +1,4 @@
+python-dotenv>=1.0
 argopy>=0.1.14
 pandas>=2.0
 xarray>=2023.1
